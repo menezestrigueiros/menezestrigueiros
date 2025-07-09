@@ -9,7 +9,7 @@ During my MSc in Physics, I specialized extensively in theoretical coursework (Q
 
 In parallel, I performed quality control tests and analysis of silicon detector electronics for the **ATLAS Inner-Tracker Upgrade** for the **High-Luminosity Large Hadron Collider (HL-LHC)** at **CERN** -- the world’s largest and most powerful particle physics experiment.
 
-🌟 My long-term goal is to become a more complete experimental scientist: Someone who can bridge theory, instrumentation and software.
+🌟 My long-term goal is to become a more complete experimental scientist: Someone who can bridge theory, instrumentation and software — reflecting the interdisciplinary nature of my experiences and my growing passion for data science and the technologies that enable it.
 
 ## 🚀 Featured Projects
 
