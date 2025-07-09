@@ -15,7 +15,7 @@ In parallel, I performed quality control tests and analysis of silicon detector 
 
 🧠 **WWCategorisationProcessor** [[MarlinReco]](https://github.com/menezestrigueiros/MarlinReco/tree/master/Analysis/WWCategorisation)  
 
-A classification tool that labels each 4f WW(W) event according to its decay channel topology (fully leptonic, fully hadronic, semi-leptonic), supporting systematic studies of event selection and efficiency in detector-level analyses. Now integrated into MarlinReco, the official reconstruction software framework for the International Linear Collider (ILC) and future collider experiments.
+A classification tool that labels each 4f WW(W) event according to its decay channel topology (fully leptonic, fully hadronic, semi-leptonic), supporting systematic studies of event selection and efficiency in detector-level analyses. Now integrated into MarlinReco, the official reconstruction software framework for the International Linear Collider (ILC) and other future collider experiments.
 
 ## 📫 Contact
 
