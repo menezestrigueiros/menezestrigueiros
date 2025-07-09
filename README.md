@@ -1,8 +1,11 @@
 # 👋 Hi there! I'm André Filipe Silva
 
 🎓 MSc in Theoretical Nuclear and Particle Physics
+
 🛠️ Hardware: QA/QC · Detector instrumentation 
+
 💻 Tools: C++ · ROOT · Python · Javascript
+
 📍 Based in Portugal 
 
 During my MSc in Physics, I specialized in theoretical coursework (Quantum Field Theory, General Relativity, Group Theory, Nuclear Models, etc.). My transition to software development began during a research project at Deutsches Elektronen-Synchrotron **(DESY)**, where I worked on W boson reconstruction and classification for the **International Linear Collider (ILC)**. 
