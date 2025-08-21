@@ -17,6 +17,11 @@ In parallel, I performed quality control tests and analysis of silicon detector 
 
 A classification tool that labels each 4f WW(W) event according to its decay channel topology (fully leptonic, fully hadronic, semi-leptonic), supporting systematic studies of event selection and efficiency in detector-level analyses. Now integrated into MarlinReco, the official reconstruction software framework for the International Linear Collider (ILC) and other future collider experiments.
 
+🧪 **HEP Analysis Docker Toolbox** [[DockerHub]](https://hub.docker.com/repository/docker/menezestrigueiros/hep-tools/general) Finishing up tutorial...
+
+From an extra drive I had lying around, it comes a self-contained containerized environment combining Geant4, ROOT, and JupyterLab with scientific Python libraries (NumPy, Uproot, Coffea, etc.), designed for High Energy Physics (HEP) analysis. This allows me  to perform reproducible workflows without installation headaches (heavy dependencies locally). Ideal for students and early researchers, it comes with interactive exploration of ROOT macros, plotting, histogram analysis, and documentation of results via Jupyter notebooks.
+
+
 ## 📫 Contact
 
 - Email: menezestrigueiros97@gmail.com
